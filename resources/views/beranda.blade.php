@@ -319,19 +319,24 @@
     <div class="col">
       SMKS PGRI WLINGI
       <p>
-      SMP/SMK/SMA
+      "Terus belajar, terus berkembang, dan terus mencetak generasi unggul, terampil, dan berkarakter."
 </p>
     </div>
     <div class="col">
       Tempat belajar, mengembangkan potensi 
       <p>
               dan meraih prestasi bersama
+
+              <p>
+              VILDA & SELA
+</P>
 </p>
     </div>
     <div class="col">
       @2026 SMK PGRI WLINGI
       <P>
-      jln Beru wlingi
+      SMK PGRI Wlingi, Jl. Panglima Sudirman No.86, Beru, Kabupaten Blitar, Jawa Timur
+
 </P>
     </div>
   </div>
